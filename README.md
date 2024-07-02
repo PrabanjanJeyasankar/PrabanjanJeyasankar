@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabanjan Jeyasankar</h1>
 <h3 align="center">An amateur frontend developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabanjan-jeyasankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabanjan-jeyasankar/" height="30" width="40" /></a>
-</p>
-
 ### Languages
 <p align="left">
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -25,6 +20,10 @@
   </a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabanjan-jeyasankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabanjan-jeyasankar/" height="30" width="40" /></a>
+</p>
 ### Design Tools
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
