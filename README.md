@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabanjan Jeyasankar</h1>
 <h3 align="center">An amateur frontend developer & an unconvetnional UI/UX designer, striving to make applications both highly functional and visually appealing.</h3>
 
-### Languages
+### Skills
 <p align="left">
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
