@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabanjan Jeyasankar</h1>
+<h1 align="center">Hello, world!👋, I'm Prabanjan Jeyasankar</h1>
 <h3 align="center">An amateur frontend developer & an unconvetnional UI/UX designer, striving to make applications both highly functional and visually appealing.</h3>
 
 ### Skills
