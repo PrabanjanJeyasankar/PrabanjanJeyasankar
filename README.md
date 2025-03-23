@@ -1,4 +1,4 @@
-![js](https://github.com/user-attachments/assets/9ac30b6a-c9ff-4a01-a10e-15816486c790)<h1 align="center">Hello, world!👋, I'm Prabanjan Jeyasankar</h1>
+<h1 align="center">Hello, world!👋, I'm Prabanjan Jeyasankar</h1>
 <h3 align="center">I'm a Full-stack developer & an unconventional UI/UX designer, striving to make applications both highly functional and visually appealing.</h3>
 
 ### Skills
