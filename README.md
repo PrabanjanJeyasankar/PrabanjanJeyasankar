@@ -52,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40"  />
   &nbsp;&nbsp;&nbsp;
   <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" width="40" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://ml.globenewswire.com/Resource/Download/82e79fc7-1654-41e7-af70-f5857596743c" width="40" height="40" />
 </p>
 
 
