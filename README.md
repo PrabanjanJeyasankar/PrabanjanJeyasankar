@@ -63,7 +63,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://jwt.io/img/pic_logo.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
