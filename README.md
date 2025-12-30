@@ -24,7 +24,7 @@
  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original-wordmark.svg" width="40" height="40" />
    &nbsp;&nbsp;&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original-wordmark.svg](https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=256&q=100)" width="40" height="40" />
+   <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=256&q=100" width="40" height="40" />
 </p>
 
 ## Backend
@@ -47,7 +47,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/anthropic-1.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="[https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="40" height="40"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="40" height="40"/>
    &nbsp;&nbsp;&nbsp;
   <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
